@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Surge Crypto](https://covid-19-tracker-e4bda.web.app/)**
+- 🔭 I’m currently working on **[Surge Crypto](https://abhi5157.github.io/Surge-crypto/)**
 
 - 🌱 I’m currently learning **ML and AI, Django and React native and many more**
 
@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/abhi5157)**
 
-- 📫 How to reach me **abhishekjoshi035@gmail.com.com**
+- 📫 How to reach me **abhishekjoshi035@gmail.com**
 
 - ⚡ Fun fact **It’s all about 0’s and 1’s**
 
@@ -70,7 +70,7 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/subham-raoniar/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://https://www.linkedin.com/in/abhishek-joshi-928188202/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/abhi"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/abhi/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
