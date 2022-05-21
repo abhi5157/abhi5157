@@ -8,9 +8,10 @@
 
 - 🔭 I’m currently working on **[Surge Crypto](https://abhi5157.github.io/Surge-crypto/)**
 
-- 🌱 I’m currently learning **ML and AI, Django and React native and many more**
+- 🌱 I’m currently learning **ML and AI, Solidity and React Express and many more**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
+- 🔭  My another decent project **[Image-Generator](https://abhi5157.github.io/Image-generator/)**
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/abhi5157)**
 
