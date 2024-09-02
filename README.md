@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="Github_profile.png" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Abbey</h1>
+<h1 align="center">‼‼‼‼‼‼‼‼Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Abbey‼‼‼‼‼‼‼‼</h1>
 <h3 align="center">I'm a passionate Mern Developer from India.</h3>
 
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **abhishekjoshi035@gmail.com**
 
-- ⚡ Fun fact **It’s all about 0’s and 1’s**
+- ⚡ Fun fact **It’s all about 0’s and 1’s and 2's**
 
 ## 🚀 Languages and Tools:
 
@@ -71,9 +71,9 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "https://https://www.linkedin.com/in/abhishek-joshi-928188202/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/abhi"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/abhi/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://https://www.linkedin.com/in/abhishek-joshi-928188202/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>connect</a>
+<a href = "https://twitter.com/abhi"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/>tweet</a>
+<a href = "https://www.instagram.com/abhi/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>reels</a>
 
 
 </p>
