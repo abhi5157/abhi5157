@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="Github_profile.png" height="175px"/></a>
 
 <h1 align="center">‼‼‼‼‼‼‼‼Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Abbey‼‼‼‼‼‼‼‼</h1>
-<h3 align="center">I'm a passionate Mern Developer from India.</h3>
+<h3 align="center">I'm a passionate AI Engineer from India.</h3>
 
 
 ## 🙋‍♂️ About Me
@@ -83,3 +83,4 @@
     <img src="https://komarev.com/ghpvc/?username=abhi5157">
 </a>
 <a href="https://github.com/abhi5157?tab=followers"><img src="https://img.shields.io/github/followers/abhi5157?label=Followers&style=social" alt="GitHub Badge"></a>
+
